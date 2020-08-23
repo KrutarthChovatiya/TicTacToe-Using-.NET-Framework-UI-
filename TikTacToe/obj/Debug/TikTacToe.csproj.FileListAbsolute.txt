@@ -1,0 +1,12 @@
+C:\Users\kRutArtH\source\repos\TikTacToe\TikTacToe\bin\Debug\TikTacToe.exe.config
+C:\Users\kRutArtH\source\repos\TikTacToe\TikTacToe\bin\Debug\TikTacToe.exe
+C:\Users\kRutArtH\source\repos\TikTacToe\TikTacToe\bin\Debug\TikTacToe.pdb
+C:\Users\kRutArtH\source\repos\TikTacToe\TikTacToe\obj\Debug\TikTacToe.csprojAssemblyReference.cache
+C:\Users\kRutArtH\source\repos\TikTacToe\TikTacToe\obj\Debug\TikTacToe.Form1.resources
+C:\Users\kRutArtH\source\repos\TikTacToe\TikTacToe\obj\Debug\TikTacToe.Properties.Resources.resources
+C:\Users\kRutArtH\source\repos\TikTacToe\TikTacToe\obj\Debug\TikTacToe.csproj.GenerateResource.cache
+C:\Users\kRutArtH\source\repos\TikTacToe\TikTacToe\obj\Debug\TikTacToe.exe
+C:\Users\kRutArtH\source\repos\TikTacToe\TikTacToe\obj\Debug\TikTacToe.pdb
+C:\Users\kRutArtH\source\repos\TikTacToe\TikTacToe\obj\Debug\TikTacToe.Form2.resources
+C:\Users\kRutArtH\source\repos\TikTacToe\TikTacToe\obj\Debug\TikTacToe.Form3.resources
+C:\Users\kRutArtH\source\repos\TikTacToe\TikTacToe\obj\Debug\TikTacToe.Form4.resources
